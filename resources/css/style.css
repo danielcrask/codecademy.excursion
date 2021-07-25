@@ -1,0 +1,45 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+
+main h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+main a:link, main a:visited{
+    font-size: 16px;
+    color: aquamarine;
+}
+
+main video {
+    margin-top: 20px;
+}
+
+main h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+main p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+footer img {
+    padding-top: 20px;
+}
+
+footer h3 {
+    color: white;
+}
+footer a:link, footer a:visited {
+    font-size: 16px;
+    color: aquamarine;
+}
